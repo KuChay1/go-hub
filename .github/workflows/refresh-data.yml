@@ -1,0 +1,28 @@
+name: Refresh event data
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**']
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/enrich.js
+      - name: Commit if changed
+        run: |
+          git config user.name "go-hub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add enriched.json
+          git diff --cached --quiet || git commit -m "Refresh event data"
+          git push
