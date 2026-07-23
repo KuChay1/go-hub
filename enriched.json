@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-22T19:49:52.590Z",
+ "generatedAt": "2026-07-23T03:50:18.740Z",
  "bonuses": {
   "pokemon-go-fest-2026-global-sunday-raid-makeup": [
    {
@@ -110,10 +110,12 @@
    }
   ],
   "choose-your-path-fairy-trail-2026": [],
+  "max-mondays-2026-08-03": [],
   "gbl-forever-forward_great-league_master-premier": [],
   "shadow-palkia-in-shadow-raids-july-2026": [],
   "kyurem-in-5-star-raid-battles-july-2026": [],
   "mega-aggron-in-mega-raids-july-2026": [],
+  "raidhour20260805": [],
   "fire-and-ice-hatch-day-2026": [
    {
     "text": "2× Candy from hatching Eggs*",
@@ -150,9 +152,17 @@
     "paid": false
    }
   ],
+  "max-mondays-2026-08-10": [],
   "gbl-forever-forward_ultra-league_weather-cup-great-league-edition": [],
+  "mega-blaziken-in-mega-raids-august-2026": [],
+  "uxie-mesprit-azelf-in-5-star-raid-battles-august-2026": [],
+  "raidhour20260812": [],
   "choose-your-path-venom-and-vines-2026": [],
+  "max-mondays-2026-08-17": [],
   "gbl-forever-forward_master-league_evolution-cup-great-league-edition": [],
+  "groudon-in-5-star-raid-battles-august-2026": [],
+  "mega-garchomp-in-mega-raids-august-2026": [],
+  "raidhour20260819": [],
   "starmie-super-mega-raid-day-2026": [
    {
     "text": "An additional 5,000 XP from all raids",
@@ -237,8 +247,15 @@
     "paid": false
    }
   ],
+  "max-mondays-2026-08-24": [],
   "gbl-forever-forward_great-league_scroll-cup-great-league-edition": [],
+  "lunala-in-5-star-raid-battles-august-2026": [],
+  "mega-swampert-in-mega-raids-august-2026": [],
+  "raidhour20260826": [],
+  "pokemon-xp-2026-worlds": [],
+  "max-mondays-2026-08-31": [],
   "gbl-forever-forward_great-league_ultra-league_master-league-split-3": [],
+  "raidhour20260902": [],
   "season-23-forever-forward": [
    {
     "text": "One additional Candy for trading Pokémon",
@@ -257,7 +274,10 @@
     "paid": false
    }
   ],
-  "gbl-forever-forward_great-league_ultra-league_master-league-mega-edition": []
+  "gbl-forever-forward_great-league_ultra-league_master-league-mega-edition": [],
+  "shadow-giratina-altered-in-shadow-raids-august-2026": [],
+  "mega-gyarados-in-mega-raids-august-2026": [],
+  "regirock-regice-registeel-in-5-star-raid-battles-august-2026": []
  },
  "gopass": {
   "go-pass-july-2026": {
@@ -296,11 +316,46 @@
  },
  "news": [
   {
+   "title": "Regirock, Regice, and Registeel Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20260902/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-09-02T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
    "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
    "link": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
    "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
    "date": "2026-09-01T20:00:00.000Z",
    "summary": "GO Battle League"
+  },
+  {
+   "title": "Dynamax Eevee during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-08-31/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-08-31T06:00:00.000",
+   "summary": "Max Mondays"
+  },
+  {
+   "title": "Regirock, Regice, and Registeel Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20260826/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-08-26T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Mega Gyarados in Mega Raids",
+   "link": "https://leekduck.com/events/mega-gyarados-in-mega-raids-august-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "date": "2026-08-26T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Regirock, Regice, and Registeel in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/regirock-regice-registeel-in-5-star-raid-battles-august-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-08-26T06:00:00.000",
+   "summary": "Raid Battles"
   },
   {
    "title": "Great League, Ultra League, and Master League | Forever Forward",
@@ -310,11 +365,46 @@
    "summary": "GO Battle League"
   },
   {
+   "title": "Pokémon XP &amp; 2026 Worlds",
+   "link": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-08-25T10:00:00.000",
+   "summary": "Event"
+  },
+  {
+   "title": "Dynamax Hitmontop during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-08-24/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-08-24T06:00:00.000",
+   "summary": "Max Mondays"
+  },
+  {
    "title": "Starmie Super Mega Raid Day",
    "link": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-day-2026.jpg",
    "date": "2026-08-22T11:00:00.000",
    "summary": "Raid Day"
+  },
+  {
+   "title": "Lunala Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20260819/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-08-19T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Lunala in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-08-19T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Mega Swampert in Mega Raids",
+   "link": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "date": "2026-08-19T06:00:00.000",
+   "summary": "Raid Battles"
   },
   {
    "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
@@ -331,6 +421,13 @@
    "summary": "Event"
   },
   {
+   "title": "Dynamax Magikarp during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-08-17/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-08-17T06:00:00.000",
+   "summary": "Max Mondays"
+  },
+  {
    "title": "Nickit Community Day",
    "link": "https://leekduck.com/events/august-communityday2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg",
@@ -338,102 +435,25 @@
    "summary": "Community Day"
   },
   {
-   "title": "Master League and Evolution Cup: Great League Edition | Forever Forward",
-   "link": "https://leekduck.com/events/gbl-forever-forward_master-league_evolution-cup-great-league-edition/",
-   "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
-   "date": "2026-08-11T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Choose Your Path: Venom and Vines",
-   "link": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-   "date": "2026-08-11T10:00:00.000",
-   "summary": "Choose Your Path"
-  },
-  {
-   "title": "Fire and Ice Hatch Day",
-   "link": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-08-fire-and-ice-hatch-day-2026/fire-and-ice-hatch-day-2026.jpg",
-   "date": "2026-08-08T11:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Ultra League and Weather Cup: Great League Edition | Forever Forward",
-   "link": "https://leekduck.com/events/gbl-forever-forward_ultra-league_weather-cup-great-league-edition/",
-   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-   "date": "2026-08-04T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Summer Marathon: Arctic Embers",
-   "link": "https://leekduck.com/events/summer-marathon-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg",
-   "date": "2026-08-04T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "GO Pass: August",
-   "link": "https://leekduck.com/events/go-pass-august-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-04-go-pass-august-2026/go-pass-august-2026.jpg",
-   "date": "2026-08-04T10:00:00.000",
-   "summary": "GO Pass"
-  },
-  {
-   "title": "Gigantamax Rillaboom Max Battle Day",
-   "link": "https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillaboom-max-battle-day.jpg",
-   "date": "2026-08-01T14:00:00.000",
-   "summary": "Max Battles"
-  },
-  {
-   "title": "Bidoof Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-07-30/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-07-30T18:00:00.000",
-   "summary": "Pokémon Spotlight Hour"
-  },
-  {
-   "title": "Kyurem Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260729/",
+   "title": "Groudon Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20260812/",
    "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-07-29T18:00:00.000",
+   "date": "2026-08-12T18:00:00.000",
    "summary": "Raid Hour"
   },
   {
-   "title": "Kyurem in 5-star Raid Battles",
-   "link": "https://leekduck.com/events/kyurem-in-5-star-raid-battles-july-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/kyurem.jpg",
-   "date": "2026-07-29T06:00:00.000",
+   "title": "Groudon in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-08-12T06:00:00.000",
    "summary": "Raid Battles"
   },
   {
-   "title": "Mega Aggron in Mega Raids",
-   "link": "https://leekduck.com/events/mega-aggron-in-mega-raids-july-2026/",
+   "title": "Mega Garchomp in Mega Raids",
+   "link": "https://leekduck.com/events/mega-garchomp-in-mega-raids-august-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-   "date": "2026-07-29T06:00:00.000",
+   "date": "2026-08-12T06:00:00.000",
    "summary": "Raid Battles"
-  },
-  {
-   "title": "Great League and Master Premier | Forever Forward",
-   "link": "https://leekduck.com/events/gbl-forever-forward_great-league_master-premier/",
-   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-   "date": "2026-07-28T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Choose Your Path: Fairy Trail",
-   "link": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-evergreen.jpg",
-   "date": "2026-07-28T10:00:00.000",
-   "summary": "Choose Your Path"
-  },
-  {
-   "title": "Dynamax Feebas during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-07-27/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-07-27T06:00:00.000",
-   "summary": "Max Mondays"
   }
  ]
 }
