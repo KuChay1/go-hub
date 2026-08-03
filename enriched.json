@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T10:09:38.656Z",
+ "generatedAt": "2026-08-03T15:21:55.659Z",
  "bonuses": {
   "choose-your-path-fairy-trail-2026": [
    {
@@ -196,7 +196,24 @@
   "shadow-giratina-altered-in-shadow-raids-august-2026": [],
   "mega-gyarados-in-mega-raids-august-2026": [],
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": [],
-  "lego-pokemon-go-2026": []
+  "lego-pokemon-go-2026": [
+   {
+    "text": "Razz Berry ×5",
+    "paid": false
+   },
+   {
+    "text": "Poké Ball ×10",
+    "paid": false
+   },
+   {
+    "text": "Pinap Berry ×5",
+    "paid": false
+   },
+   {
+    "text": "Nanab Berry ×5",
+    "paid": false
+   }
+  ]
  },
  "gopass": {
   "go-pass-july-2026": {
