@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T19:39:21.722Z",
+ "generatedAt": "2026-08-03T04:02:29.828Z",
  "bonuses": {
   "choose-your-path-fairy-trail-2026": [
    {
@@ -195,7 +195,8 @@
   "gbl-forever-forward_great-league_ultra-league_master-league-mega-edition": [],
   "shadow-giratina-altered-in-shadow-raids-august-2026": [],
   "mega-gyarados-in-mega-raids-august-2026": [],
-  "regirock-regice-registeel-in-5-star-raid-battles-august-2026": []
+  "regirock-regice-registeel-in-5-star-raid-battles-august-2026": [],
+  "lego-pokemon-go-2026": []
  },
  "gopass": {
   "go-pass-july-2026": {
@@ -262,6 +263,13 @@
    "summary": "Max Mondays"
   },
   {
+   "title": "Mankey Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "date": "2026-08-27T18:00:00.000",
+   "summary": "Pokémon Spotlight Hour"
+  },
+  {
    "title": "Regirock, Regice, and Registeel Raid Hour",
    "link": "https://leekduck.com/events/raidhour20260826/",
    "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
@@ -311,6 +319,13 @@
    "summary": "Raid Day"
   },
   {
+   "title": "Magikarp Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "date": "2026-08-20T18:00:00.000",
+   "summary": "Pokémon Spotlight Hour"
+  },
+  {
    "title": "Lunala Raid Hour",
    "link": "https://leekduck.com/events/raidhour20260819/",
    "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
@@ -358,20 +373,6 @@
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-16-august-communityday2026/nickit-august-cd-2026.jpg",
    "date": "2026-08-16T14:00:00.000",
    "summary": "Community Day"
-  },
-  {
-   "title": "Groudon Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260812/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-08-12T18:00:00.000",
-   "summary": "Raid Hour"
-  },
-  {
-   "title": "Groudon in 5-star Raid Battles",
-   "link": "https://leekduck.com/events/groudon-in-5-star-raid-battles-august-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-08-12T06:00:00.000",
-   "summary": "Raid Battles"
   }
  ]
 }
