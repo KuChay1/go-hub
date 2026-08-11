@@ -1,30 +1,36 @@
 {
- "generatedAt": "2026-08-10T19:25:33.234Z",
+ "generatedAt": "2026-08-11T02:31:28.316Z",
  "bonuses": {
-  "summer-marathon-2026": [
-   {
-    "text": "2× XP for spinning a PokéStop",
-    "paid": false
-   },
-   {
-    "text": "GO Pass Deluxe: 3× XP for spinning a PokéStop",
-    "paid": false
-   },
-   {
-    "text": "1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-    "paid": false
-   },
-   {
-    "text": "GO Pass Deluxe: 1/4 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
-    "paid": false
-   }
-  ],
-  "max-mondays-2026-08-10": [],
   "gbl-forever-forward_ultra-league_weather-cup-great-league-edition": [],
   "mega-blaziken-in-mega-raids-august-2026": [],
   "uxie-mesprit-azelf-in-5-star-raid-battles-august-2026": [],
   "raidhour20260812": [],
-  "choose-your-path-venom-and-vines-2026": [],
+  "choose-your-path-venom-and-vines-2026": [
+   {
+    "text": "Explore (PokéStops): 5× XP for spinning PokéStops",
+    "paid": false
+   },
+   {
+    "text": "Catch (XP): 1.5× XP for catching Pokémon with Nice Throws or better",
+    "paid": false
+   },
+   {
+    "text": "Battle (Raids): An additional 5,000 XP for completing raids",
+    "paid": false
+   },
+   {
+    "text": "Explore (Hatch): 1/2 Egg Hatch Distance bonus",
+    "paid": false
+   },
+   {
+    "text": "Catch (Candy): Additional Candy for catching Pokémon with Nice Throws or better",
+    "paid": false
+   },
+   {
+    "text": "Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts",
+    "paid": false
+   }
+  ],
   "max-mondays-2026-08-17": [],
   "gbl-forever-forward_master-league_evolution-cup-great-league-edition": [],
   "groudon-in-5-star-raid-battles-august-2026": [],
@@ -168,6 +174,8 @@
   "shadow-giratina-altered-in-shadow-raids-august-2026": [],
   "mega-gyarados-in-mega-raids-august-2026": [],
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": [],
+  "september-communitydayclassic2026": [],
+  "super-mega-raid-day-september-2026": [],
   "lego-pokemon-go-2026": [
    {
     "text": "Razz Berry ×5",
@@ -207,6 +215,76 @@
   }
  },
  "news": [
+  {
+   "title": "Super Mega Raid Day",
+   "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-11-28T14:00:00.000",
+   "summary": "Raid Day"
+  },
+  {
+   "title": "November Community Day",
+   "link": "https://leekduck.com/events/november-communityday2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+   "date": "2026-11-21T14:00:00.000",
+   "summary": "Community Day"
+  },
+  {
+   "title": "Super Mega Raid Day",
+   "link": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-10-31T14:00:00.000",
+   "summary": "Raid Day"
+  },
+  {
+   "title": "Max Battle Day",
+   "link": "https://leekduck.com/events/max-battle-day-october-24-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-10-24T14:00:00.000",
+   "summary": "Max Battles"
+  },
+  {
+   "title": "Hatch Day",
+   "link": "https://leekduck.com/events/hatch-day-october-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-10-17T11:00:00.000",
+   "summary": "Event"
+  },
+  {
+   "title": "October Community Day",
+   "link": "https://leekduck.com/events/october-communityday2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+   "date": "2026-10-10T14:00:00.000",
+   "summary": "Community Day"
+  },
+  {
+   "title": "Max Battle Day",
+   "link": "https://leekduck.com/events/max-battle-day-october-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-10-03T14:00:00.000",
+   "summary": "Max Battles"
+  },
+  {
+   "title": "Catch Mastery",
+   "link": "https://leekduck.com/events/catch-mastery-september-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-09-26T10:00:00.000",
+   "summary": "Event"
+  },
+  {
+   "title": "Super Mega Raid Day",
+   "link": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-09-19T14:00:00.000",
+   "summary": "Raid Day"
+  },
+  {
+   "title": "September Community Day Classic",
+   "link": "https://leekduck.com/events/september-communitydayclassic2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+   "date": "2026-09-12T14:00:00.000",
+   "summary": "Community Day"
+  },
   {
    "title": "Pokémon GO Fest 2026: Mega Finale",
    "link": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
@@ -276,76 +354,6 @@
    "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
    "date": "2026-08-25T20:00:00.000Z",
    "summary": "GO Battle League"
-  },
-  {
-   "title": "PokémonXP &amp; 2026 Worlds",
-   "link": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg",
-   "date": "2026-08-25T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Dynamax Hitmontop during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-08-24/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-08-24T06:00:00.000",
-   "summary": "Max Mondays"
-  },
-  {
-   "title": "Starmie Super Mega Raid Day",
-   "link": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-day-2026.jpg",
-   "date": "2026-08-22T11:00:00.000",
-   "summary": "Raid Day"
-  },
-  {
-   "title": "Magikarp Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-20/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-08-20T18:00:00.000",
-   "summary": "Pokémon Spotlight Hour"
-  },
-  {
-   "title": "Lunala Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260819/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-08-19T18:00:00.000",
-   "summary": "Raid Hour"
-  },
-  {
-   "title": "Lunala in 5-star Raid Battles",
-   "link": "https://leekduck.com/events/lunala-in-5-star-raid-battles-august-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-08-19T06:00:00.000",
-   "summary": "Raid Battles"
-  },
-  {
-   "title": "Mega Swampert in Mega Raids",
-   "link": "https://leekduck.com/events/mega-swampert-in-mega-raids-august-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-   "date": "2026-08-19T06:00:00.000",
-   "summary": "Raid Battles"
-  },
-  {
-   "title": "Great League and Scroll Cup: Great League Edition | Forever Forward",
-   "link": "https://leekduck.com/events/gbl-forever-forward_great-league_scroll-cup-great-league-edition/",
-   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-   "date": "2026-08-18T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Ultra Unlock: Water Festival",
-   "link": "https://leekduck.com/events/water-festival-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2",
-   "date": "2026-08-18T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Dynamax Magikarp during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-08-17/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-08-17T06:00:00.000",
-   "summary": "Max Mondays"
   }
  ]
 }
