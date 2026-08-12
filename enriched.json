@@ -1,9 +1,6 @@
 {
- "generatedAt": "2026-08-11T19:29:57.732Z",
+ "generatedAt": "2026-08-12T03:00:19.438Z",
  "bonuses": {
-  "gbl-forever-forward_ultra-league_weather-cup-great-league-edition": [],
-  "mega-blaziken-in-mega-raids-august-2026": [],
-  "uxie-mesprit-azelf-in-5-star-raid-battles-august-2026": [],
   "raidhour20260812": [],
   "choose-your-path-venom-and-vines-2026": [
    {
@@ -151,7 +148,30 @@
   "max-mondays-2026-08-31": [],
   "gbl-forever-forward_great-league_ultra-league_master-league-split-3": [],
   "raidhour20260902": [],
-  "pokemon-go-fest-2026-mega-finale": [],
+  "mega-ascension": [
+   {
+    "text": "Remote Raid Pass limit increased to 30 from Monday, August 31, to Friday, September 4, 2026",
+    "paid": false
+   }
+  ],
+  "pokemon-go-fest-2026-mega-finale": [
+   {
+    "text": "No limit on Remote Raids from Saturday, September 5, to Sunday, September 6, 2026",
+    "paid": false
+   },
+   {
+    "text": "All Mega-Evolved Pokémon will receive an extra CP boost from Saturday, September 5, to Sunday, September 6, 2026",
+    "paid": false
+   },
+   {
+    "text": "Bonus Candy, Candy XL, and XP from Mega Raids",
+    "paid": false
+   },
+   {
+    "text": "Increased chance of encountering Shiny Pokémon from certain Mega Raids and event Pokémon encounters",
+    "paid": false
+   }
+  ],
   "season-23-forever-forward": [
    {
     "text": "One additional Candy for trading Pokémon",
@@ -288,7 +308,7 @@
   {
    "title": "Pokémon GO Fest 2026: Mega Finale",
    "link": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg?v2",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg",
    "date": "2026-09-05T10:00:00.000",
    "summary": "Pokémon GO Fest"
   },
@@ -305,6 +325,13 @@
    "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
    "date": "2026-09-01T20:00:00.000Z",
    "summary": "GO Battle League"
+  },
+  {
+   "title": "Mega Ascension",
+   "link": "https://leekduck.com/events/mega-ascension/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-31-mega-ascension/mega-ascension.jpg",
+   "date": "2026-08-31T10:00:00.000",
+   "summary": "Event"
   },
   {
    "title": "Dynamax Eevee during Max Monday",
@@ -347,13 +374,6 @@
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-08-26T06:00:00.000",
    "summary": "Raid Battles"
-  },
-  {
-   "title": "Great League, Ultra League, and Master League | Forever Forward",
-   "link": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-split-3/",
-   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-   "date": "2026-08-25T20:00:00.000Z",
-   "summary": "GO Battle League"
   }
  ]
 }
