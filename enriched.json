@@ -1,33 +1,6 @@
 {
- "generatedAt": "2026-08-17T19:03:07.803Z",
+ "generatedAt": "2026-08-18T01:54:18.757Z",
  "bonuses": {
-  "choose-your-path-venom-and-vines-2026": [
-   {
-    "text": "Explore (PokéStops): 5× XP for spinning PokéStops",
-    "paid": false
-   },
-   {
-    "text": "Catch (XP): 1.5× XP for catching Pokémon with Nice Throws or better",
-    "paid": false
-   },
-   {
-    "text": "Battle (Raids): An additional 5,000 XP for completing raids",
-    "paid": false
-   },
-   {
-    "text": "Explore (Hatch): 1/2 Egg Hatch Distance bonus",
-    "paid": false
-   },
-   {
-    "text": "Catch (Candy): Additional Candy for catching Pokémon with Nice Throws or better",
-    "paid": false
-   },
-   {
-    "text": "Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts",
-    "paid": false
-   }
-  ],
-  "max-mondays-2026-08-17": [],
   "gbl-forever-forward_master-league_evolution-cup-great-league-edition": [],
   "groudon-in-5-star-raid-battles-august-2026": [],
   "mega-garchomp-in-mega-raids-august-2026": [],
