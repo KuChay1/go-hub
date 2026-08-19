@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T13:14:54.165Z",
+ "generatedAt": "2026-08-19T18:57:40.313Z",
  "bonuses": {
   "raidhour20260819": [],
   "starmie-super-mega-raid-day-2026": [
@@ -184,7 +184,8 @@
     "text": "Nanab Berry ×5",
     "paid": false
    }
-  ]
+  ],
+  "max-battle-day-october-2026": []
  },
  "gopass": {
   "go-pass-august-2026": {
