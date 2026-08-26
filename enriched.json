@@ -1,9 +1,6 @@
 {
- "generatedAt": "2026-08-25T19:04:01.461Z",
+ "generatedAt": "2026-08-26T02:02:13.617Z",
  "bonuses": {
-  "gbl-forever-forward_great-league_scroll-cup-great-league-edition": [],
-  "lunala-in-5-star-raid-battles-august-2026": [],
-  "mega-swampert-in-mega-raids-august-2026": [],
   "raidhour20260826": [],
   "pokemon-world-championships-2026-timed-research-twitch-drops": [],
   "pokemon-xp-2026-worlds": [
@@ -56,6 +53,7 @@
    }
   ],
   "10th-anniversary-celebration": [],
+  "max-mondays-2026-09-07": [],
   "season-23-forever-forward": [
    {
     "text": "One additional Candy for trading Pokémon",
@@ -78,9 +76,26 @@
   "shadow-giratina-altered-in-shadow-raids-august-2026": [],
   "mega-gyarados-in-mega-raids-august-2026": [],
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": [],
+  "raidhour20260909": [],
   "september-communitydayclassic2026": [],
+  "mega-squads-2026": [],
+  "max-mondays-2026-09-14": [],
+  "mega-beedrill-in-mega-raids-september-2026": [],
+  "zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
+  "mega-houndoom-in-mega-raids-september-2026": [],
+  "raidhour20260916": [],
+  "pokemonspotlighthour2026-09-17": [],
   "super-mega-raid-day-september-2026": [],
+  "max-mondays-2026-09-21": [],
+  "unannounced-september-event-season-24": [],
+  "mega-venusaur-in-mega-raids-september-2026": [],
+  "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
+  "raidhour20260923": [],
   "catch-mastery-september-2026": [],
+  "max-mondays-2026-09-28": [],
+  "mega-malamar-in-mega-raids-september-2026": [],
+  "xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026": [],
+  "raidhour20260930": [],
   "lego-pokemon-go-2026": [
    {
     "text": "Razz Berry ×5",
@@ -100,6 +115,10 @@
    }
   ],
   "max-battle-day-october-2026": [],
+  "harvest-festival-2026": [],
+  "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
+  "mega-victreebel-in-mega-raids-september-2026": [],
+  "xerneas-in-5-star-raid-battles-september-2026": [],
   "season-24-twilight-trails": [
    {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
@@ -209,11 +228,81 @@
    "summary": "Max Battles"
   },
   {
+   "title": "Xerneas Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20260930/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-09-30T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Mega Victreebel in Mega Raids",
+   "link": "https://leekduck.com/events/mega-victreebel-in-mega-raids-september-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "date": "2026-09-30T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Xerneas in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-09-30T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Harvest Festival",
+   "link": "https://leekduck.com/events/harvest-festival-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-09-29T10:00:00.000",
+   "summary": "Event"
+  },
+  {
+   "title": "Dynamax Sobble during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-09-28/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-09-28T06:00:00.000",
+   "summary": "Max Mondays"
+  },
+  {
    "title": "Catch Mastery",
    "link": "https://leekduck.com/events/catch-mastery-september-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-09-26T10:00:00.000",
    "summary": "Event"
+  },
+  {
+   "title": "Rattata Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "date": "2026-09-24T18:00:00.000",
+   "summary": "Pokémon Spotlight Hour"
+  },
+  {
+   "title": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20260923/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-09-23T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Mega Malamar in Mega Raids",
+   "link": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "date": "2026-09-23T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-09-23T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-09-21/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-09-21T06:00:00.000",
+   "summary": "Max Mondays"
   },
   {
    "title": "Super Mega Raid Day",
@@ -223,81 +312,11 @@
    "summary": "Raid Day"
   },
   {
-   "title": "September Community Day Classic",
-   "link": "https://leekduck.com/events/september-communitydayclassic2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
-   "date": "2026-09-12T14:00:00.000",
-   "summary": "Community Day"
-  },
-  {
-   "title": "GO Pass: September",
-   "link": "https://leekduck.com/events/go-pass-september-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg",
-   "date": "2026-09-08T10:00:00.000",
-   "summary": "GO Pass"
-  },
-  {
-   "title": "Twilight Trails",
-   "link": "https://leekduck.com/events/season-24-twilight-trails/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg",
-   "date": "2026-09-08T10:00:00.000",
-   "summary": "Season"
-  },
-  {
-   "title": "Pokémon GO Fest 2026: Mega Finale",
-   "link": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jpg",
-   "date": "2026-09-05T10:00:00.000",
-   "summary": "Pokémon GO Fest"
-  },
-  {
-   "title": "Regirock, Regice, and Registeel Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260902/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-09-02T18:00:00.000",
-   "summary": "Raid Hour"
-  },
-  {
-   "title": "Great League, Ultra League, and Master League: Mega Edition | Forever Forward",
-   "link": "https://leekduck.com/events/gbl-forever-forward_great-league_ultra-league_master-league-mega-edition/",
-   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-27-forever-forward.jpg",
-   "date": "2026-09-01T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Mega Ascension",
-   "link": "https://leekduck.com/events/mega-ascension/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-31-mega-ascension/mega-ascension.jpg",
-   "date": "2026-08-31T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Dynamax Eevee during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-08-31/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-08-31T06:00:00.000",
-   "summary": "Max Mondays"
-  },
-  {
-   "title": "Twitch Drops for 2026 Pokémon World Championships",
-   "link": "https://leekduck.com/events/pokemon-world-championships-2026-timed-research-twitch-drops/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drops/2026-worlds-go-drops.jpg",
-   "date": "2026-08-28T16:00:00.000Z",
-   "summary": "Research"
-  },
-  {
-   "title": "Mankey Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-08-27/",
+   "title": "Mystery Pokémon Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
    "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-08-27T18:00:00.000",
+   "date": "2026-09-17T18:00:00.000",
    "summary": "Pokémon Spotlight Hour"
-  },
-  {
-   "title": "Regirock, Regice, and Registeel Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260826/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-08-26T18:00:00.000",
-   "summary": "Raid Hour"
   }
  ]
 }
