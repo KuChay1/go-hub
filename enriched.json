@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T22:25:40.793Z",
+ "generatedAt": "2026-08-28T11:31:34.039Z",
  "bonuses": {
   "pokemon-world-championships-2026-timed-research-twitch-drops": [],
   "pokemon-xp-2026-worlds": [
@@ -90,7 +90,16 @@
   "mega-venusaur-in-mega-raids-september-2026": [],
   "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
   "raidhour20260923": [],
-  "catch-mastery-september-2026": [],
+  "catch-mastery-phantump-2026": [
+   {
+    "text": "2× XP for successfully catching Pokémon with Nice Throws or better",
+    "paid": false
+   },
+   {
+    "text": "Increased Candy for successfully catching Pokémon with Nice Throws or better",
+    "paid": false
+   }
+  ],
   "max-mondays-2026-09-28": [],
   "mega-malamar-in-mega-raids-september-2026": [],
   "xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026": [],
@@ -263,9 +272,9 @@
    "summary": "Max Mondays"
   },
   {
-   "title": "Catch Mastery",
-   "link": "https://leekduck.com/events/catch-mastery-september-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "title": "Phantump Catch Mastery",
+   "link": "https://leekduck.com/events/catch-mastery-phantump-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
    "date": "2026-09-26T10:00:00.000",
    "summary": "Event"
   },
