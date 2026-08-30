@@ -1,30 +1,8 @@
 {
- "generatedAt": "2026-08-30T16:48:07.494Z",
+ "generatedAt": "2026-08-30T21:14:26.004Z",
  "bonuses": {
   "pokemon-world-championships-2026-timed-research-twitch-drops": [],
   "pokemon-world-championships-2026-san-francisco": [],
-  "pokemon-xp-2026-worlds": [
-   {
-    "text": "The maximum number of sets you can play per day will increase from five to 15—for a total of 75 battles.",
-    "paid": false
-   },
-   {
-    "text": "Pokémon encountered via GO Battle League rewards will have a wider variance of Attack, Defense, and HP.",
-    "paid": false
-   },
-   {
-    "text": "2× Stardust for catching Pokémon.",
-    "paid": false
-   },
-   {
-    "text": "An additional 3,000 XP from raids.",
-    "paid": false
-   },
-   {
-    "text": "Receive up to two additional free Raid Passes from spinning Gym Photo Discs.",
-    "paid": true
-   }
-  ],
   "max-mondays-2026-08-31": [],
   "gbl-forever-forward_great-league_ultra-league_master-league-split-3": [],
   "raidhour20260902": [],
