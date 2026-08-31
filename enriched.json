@@ -1,7 +1,6 @@
 {
- "generatedAt": "2026-08-31T14:06:46.320Z",
+ "generatedAt": "2026-08-31T22:55:37.095Z",
  "bonuses": {
-  "max-mondays-2026-08-31": [],
   "gbl-forever-forward_great-league_ultra-league_master-league-split-3": [],
   "raidhour20260902": [],
   "mega-ascension": [
@@ -54,7 +53,24 @@
   "mega-gyarados-in-mega-raids-august-2026": [],
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": [],
   "raidhour20260909": [],
-  "september-communitydayclassic2026": [],
+  "september-communitydayclassic2026": [
+   {
+    "text": "Increased Spawns",
+    "paid": false
+   },
+   {
+    "text": "3x Catch XP",
+    "paid": false
+   },
+   {
+    "text": "3-hour Incense*",
+    "paid": false
+   },
+   {
+    "text": "1-hour Lures**",
+    "paid": false
+   }
+  ],
   "mega-squads-2026": [],
   "max-mondays-2026-09-14": [],
   "mega-beedrill-in-mega-raids-september-2026": [],
