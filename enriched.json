@@ -1,7 +1,6 @@
 {
- "generatedAt": "2026-08-31T22:55:37.095Z",
+ "generatedAt": "2026-09-01T05:20:22.485Z",
  "bonuses": {
-  "gbl-forever-forward_great-league_ultra-league_master-league-split-3": [],
   "raidhour20260902": [],
   "mega-ascension": [
    {
@@ -48,31 +47,26 @@
     "paid": false
    }
   ],
-  "gbl-forever-forward_great-league_ultra-league_master-league-mega-edition": [],
   "shadow-giratina-altered-in-shadow-raids-august-2026": [],
   "mega-gyarados-in-mega-raids-august-2026": [],
   "regirock-regice-registeel-in-5-star-raid-battles-august-2026": [],
   "raidhour20260909": [],
-  "september-communitydayclassic2026": [
+  "mega-squads": [
    {
-    "text": "Increased Spawns",
+    "text": "Chance to obtain Mega Energy when catching Weedle, Pidgey, Houndour, Carvanha, or their Evolutions",
     "paid": false
    },
    {
-    "text": "3x Catch XP",
+    "text": "2× Hatch Stardust",
     "paid": false
    },
    {
-    "text": "3-hour Incense*",
-    "paid": false
-   },
-   {
-    "text": "1-hour Lures**",
+    "text": "GO Pass Deluxe: 1/2 Egg Hatch Distance when Eggs are placed in an Incubator during the event period",
     "paid": false
    }
   ],
-  "mega-squads-2026": [],
   "max-mondays-2026-09-14": [],
+  "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": [],
   "mega-beedrill-in-mega-raids-september-2026": [],
   "zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
   "mega-houndoom-in-mega-raids-september-2026": [],
@@ -80,6 +74,7 @@
   "pokemonspotlighthour2026-09-17": [],
   "super-mega-raid-day-september-2026": [],
   "max-mondays-2026-09-21": [],
+  "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition": [],
   "unannounced-september-event-season-24": [],
   "mega-venusaur-in-mega-raids-september-2026": [],
   "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
@@ -95,6 +90,7 @@
    }
   ],
   "max-mondays-2026-09-28": [],
+  "gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition": [],
   "mega-malamar-in-mega-raids-september-2026": [],
   "xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026": [],
   "raidhour20260930": [],
@@ -118,10 +114,13 @@
   ],
   "max-battle-day-october-2026": [],
   "harvest-festival-2026": [],
+  "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition": [],
   "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
   "mega-victreebel-in-mega-raids-september-2026": [],
   "xerneas-in-5-star-raid-battles-september-2026": [],
   "october-communityday2026": [],
+  "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": [],
+  "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup": [],
   "season-24-twilight-trails": [
    {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
@@ -189,11 +188,39 @@
    "summary": "Raid Day"
   },
   {
+   "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
+   "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+   "date": "2026-11-24T21:00:00.000Z",
+   "summary": "GO Battle League"
+  },
+  {
    "title": "November Community Day",
    "link": "https://leekduck.com/events/november-communityday2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
    "date": "2026-11-21T14:00:00.000",
    "summary": "Community Day"
+  },
+  {
+   "title": "Ultra League, Master League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup/",
+   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+   "date": "2026-11-18T21:00:00.000Z",
+   "summary": "GO Battle League"
+  },
+  {
+   "title": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
+   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+   "date": "2026-11-10T21:00:00.000Z",
+   "summary": "GO Battle League"
+  },
+  {
+   "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
+   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+   "date": "2026-11-03T21:00:00.000Z",
+   "summary": "GO Battle League"
   },
   {
    "title": "Super Mega Raid Day",
@@ -203,11 +230,25 @@
    "summary": "Raid Day"
   },
   {
+   "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition/",
+   "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+   "date": "2026-10-27T21:00:00.000Z",
+   "summary": "GO Battle League"
+  },
+  {
    "title": "Max Battle Day",
    "link": "https://leekduck.com/events/max-battle-day-october-24-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-10-24T14:00:00.000",
    "summary": "Max Battles"
+  },
+  {
+   "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
+   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+   "date": "2026-10-20T20:00:00.000Z",
+   "summary": "GO Battle League"
   },
   {
    "title": "Hatch Day",
@@ -217,11 +258,25 @@
    "summary": "Event"
   },
   {
+   "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
+   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+   "date": "2026-10-13T20:00:00.000Z",
+   "summary": "GO Battle League"
+  },
+  {
    "title": "October Community Day",
    "link": "https://leekduck.com/events/october-communityday2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
    "date": "2026-10-10T14:00:00.000",
    "summary": "Community Day"
+  },
+  {
+   "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
+   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
+   "date": "2026-10-06T20:00:00.000Z",
+   "summary": "GO Battle League"
   },
   {
    "title": "Max Battle Day",
@@ -252,74 +307,18 @@
    "summary": "Raid Battles"
   },
   {
+   "title": "Master League and Mega Color Cup: Great League Edition | Twilight Trails",
+   "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-color-cup-great-league-edition/",
+   "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+   "date": "2026-09-29T20:00:00.000Z",
+   "summary": "GO Battle League"
+  },
+  {
    "title": "Harvest Festival",
    "link": "https://leekduck.com/events/harvest-festival-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-09-29T10:00:00.000",
    "summary": "Event"
-  },
-  {
-   "title": "Dynamax Sobble during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-09-28/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-09-28T06:00:00.000",
-   "summary": "Max Mondays"
-  },
-  {
-   "title": "Phantump Catch Mastery",
-   "link": "https://leekduck.com/events/catch-mastery-phantump-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2",
-   "date": "2026-09-26T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Rattata Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-24/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-09-24T18:00:00.000",
-   "summary": "Pokémon Spotlight Hour"
-  },
-  {
-   "title": "Xurkitree, Pheromosa, and Buzzwole Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260923/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-09-23T18:00:00.000",
-   "summary": "Raid Hour"
-  },
-  {
-   "title": "Mega Malamar in Mega Raids",
-   "link": "https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
-   "date": "2026-09-23T06:00:00.000",
-   "summary": "Raid Battles"
-  },
-  {
-   "title": "Xurkitree, Pheromosa, and Buzzwole in 5-star Raid Battles",
-   "link": "https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-09-23T06:00:00.000",
-   "summary": "Raid Battles"
-  },
-  {
-   "title": "Dynamax Articuno, Zapdos, and Moltres during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-09-21/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-09-21T06:00:00.000",
-   "summary": "Max Mondays"
-  },
-  {
-   "title": "Super Mega Raid Day",
-   "link": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-09-19T14:00:00.000",
-   "summary": "Raid Day"
-  },
-  {
-   "title": "Mystery Pokémon Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-09-17/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-09-17T18:00:00.000",
-   "summary": "Pokémon Spotlight Hour"
   }
  ]
 }
