@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T11:28:54.278Z",
+ "generatedAt": "2026-09-02T16:41:24.310Z",
  "bonuses": {
   "raidhour20260902": [],
   "mega-ascension": [
@@ -108,7 +108,28 @@
   ],
   "max-mondays-2026-09-21": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition": [],
-  "unannounced-september-event-season-24": [],
+  "pokemon-horizons-the-series-celebration-event-2026": [
+   {
+    "text": "Increased chance to encounter Kecleon at PokéStops",
+    "paid": false
+   },
+   {
+    "text": "2× Candy for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "GO Pass Deluxe: 3× Candy for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "Regular Lure Modules will last for one hour and may attract the featured Pokémon",
+    "paid": false
+   },
+   {
+    "text": "Additional Stardust for catching Hatenna and Wattrel",
+    "paid": false
+   }
+  ],
   "mega-venusaur-in-mega-raids-september-2026": [],
   "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
   "raidhour20260923": [],
