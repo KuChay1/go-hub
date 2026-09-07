@@ -1,7 +1,6 @@
 {
- "generatedAt": "2026-09-07T12:46:21.308Z",
+ "generatedAt": "2026-09-07T21:35:50.831Z",
  "bonuses": {
-  "max-mondays-2026-09-07": [],
   "season-23-forever-forward": [
    {
     "text": "One additional Candy for trading Pokémon",
@@ -140,7 +139,24 @@
    }
   ],
   "max-battle-day-october-2026": [],
-  "harvest-festival-2026": [],
+  "harvest-festival-2026": [
+   {
+    "text": "Increased chance to encounter Shiny Smoliv",
+    "paid": false
+   },
+   {
+    "text": "Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught",
+    "paid": false
+   },
+   {
+    "text": "Mossy Lure Modules activated during the event will last for one hour",
+    "paid": false
+   },
+   {
+    "text": "More Stardust from defeating Team GO Rocket Grunts and Leaders",
+    "paid": false
+   }
+  ],
   "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition": [],
   "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
   "mega-victreebel-in-mega-raids-september-2026": [],
