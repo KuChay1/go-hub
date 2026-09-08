@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T21:35:50.831Z",
+ "generatedAt": "2026-09-08T04:50:32.188Z",
  "bonuses": {
   "season-23-forever-forward": [
    {
@@ -154,6 +154,24 @@
    },
    {
     "text": "More Stardust from defeating Team GO Rocket Grunts and Leaders",
+    "paid": false
+   }
+  ],
+  "harvest-festival-taken-over-2026": [
+   {
+    "text": "Increased chance to encounter Shiny Slugma",
+    "paid": false
+   },
+   {
+    "text": "More Team GO Rocket appearances at PokéStops and in balloons",
+    "paid": false
+   },
+   {
+    "text": "Use a Charged TM to remove Frustration from Shadow Pokémon",
+    "paid": false
+   },
+   {
+    "text": "Wider Attack, Defense, and HP variance for Pokémon caught in one-star and three-star Shadow Raids during the event",
     "paid": false
    }
   ],
@@ -331,6 +349,13 @@
    "summary": "Max Battles"
   },
   {
+   "title": "Harvest Festival: Taken Over",
+   "link": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jpg",
+   "date": "2026-10-02T00:00:00.000",
+   "summary": "Event"
+  },
+  {
    "title": "Xerneas Raid Hour",
    "link": "https://leekduck.com/events/raidhour20260930/",
    "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
@@ -357,13 +382,6 @@
    "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
    "date": "2026-09-29T20:00:00.000Z",
    "summary": "GO Battle League"
-  },
-  {
-   "title": "Harvest Festival",
-   "link": "https://leekduck.com/events/harvest-festival-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-09-29T10:00:00.000",
-   "summary": "Event"
   }
  ]
 }
