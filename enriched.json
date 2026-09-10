@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T04:54:28.404Z",
+ "generatedAt": "2026-09-10T11:31:21.294Z",
  "bonuses": {
   "mega-squads": [
    {
@@ -116,7 +116,48 @@
     "paid": false
    }
   ],
-  "max-battle-day-october-2026": [],
+  "gigantamax-cinderace-max-battle-day-2026": [
+   {
+    "text": "Max Particle collection limit increased to 1,600",
+    "paid": false
+   },
+   {
+    "text": "All Power Spots will host Gigantamax Battles",
+    "paid": false
+   },
+   {
+    "text": "Power Spots will refresh more frequently",
+    "paid": false
+   },
+   {
+    "text": "Additional Power Spots will be active",
+    "paid": false
+   },
+   {
+    "text": "8× Max Particles from Power Spots",
+    "paid": false
+   },
+   {
+    "text": "Up to three Special Trades for the day",
+    "paid": false
+   },
+   {
+    "text": "From October 2 at 5:00 p.m. to October 3 at 8:00 p.m. PDT (GMT −7), the daily Remote Raid limit will increase from 10 to 20",
+    "paid": false
+   },
+   {
+    "text": "2× Max Particles from exploring*",
+    "paid": false
+   },
+   {
+    "text": "1/4 Adventuring distance to receive Max Particles**",
+    "paid": false
+   },
+   {
+    "text": "2× XP from Max Battles",
+    "paid": false
+   }
+  ],
   "harvest-festival-2026": [
    {
     "text": "Increased chance to encounter Shiny Smoliv",
@@ -234,7 +275,7 @@
    "summary": "GO Battle League"
   },
   {
-   "title": "Pokémon GO Wild Area: Global",
+   "title": "Pokémon GO Wild Area 2026: Global",
    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg",
    "date": "2026-11-14T10:00:00.000",
@@ -248,14 +289,14 @@
    "summary": "GO Battle League"
   },
   {
-   "title": "Pokémon GO Wild Area: Mexico City",
+   "title": "Pokémon GO Wild Area 2026: Mexico City",
    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg",
    "date": "2026-11-06T16:00:00.000Z",
    "summary": "Wild Area"
   },
   {
-   "title": "Pokémon GO Wild Area: Sendai, Tohoku",
+   "title": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg",
    "date": "2026-11-06T01:00:00.000Z",
@@ -325,9 +366,9 @@
    "summary": "GO Battle League"
   },
   {
-   "title": "Max Battle Day",
-   "link": "https://leekduck.com/events/max-battle-day-october-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "title": "Gigantamax Cinderace Max Battle Day",
+   "link": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cinderace-max-battle-day.jpg",
    "date": "2026-10-03T14:00:00.000",
    "summary": "Max Battles"
   },
