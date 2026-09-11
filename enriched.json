@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T11:32:44.047Z",
+ "generatedAt": "2026-09-11T16:36:08.421Z",
  "bonuses": {
   "mega-squads": [
    {
@@ -113,6 +113,20 @@
    },
    {
     "text": "Nanab Berry ×5",
+    "paid": false
+   }
+  ],
+  "patterns-of-the-wild-2026": [
+   {
+    "text": "Incense will last for two hours",
+    "paid": false
+   },
+   {
+    "text": "Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokémon while using Incense",
+    "paid": false
+   },
+   {
+    "text": "Increased chance to encounter Shiny featured wild Pokémon",
     "paid": false
    }
   ],
@@ -373,18 +387,18 @@
    "summary": "Max Battles"
   },
   {
+   "title": "Patterns of the Wild",
+   "link": "https://leekduck.com/events/patterns-of-the-wild-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg",
+   "date": "2026-10-02T10:00:00.000",
+   "summary": "Event"
+  },
+  {
    "title": "Harvest Festival: Taken Over",
    "link": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jpg",
    "date": "2026-10-02T00:00:00.000",
    "summary": "Event"
-  },
-  {
-   "title": "Xerneas Raid Hour",
-   "link": "https://leekduck.com/events/raidhour20260930/",
-   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
-   "date": "2026-09-30T18:00:00.000",
-   "summary": "Raid Hour"
   }
  ]
 }
