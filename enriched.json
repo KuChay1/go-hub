@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T21:54:25.927Z",
+ "generatedAt": "2026-09-15T05:02:17.095Z",
  "bonuses": {
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": [],
   "mega-beedrill-in-mega-raids-september-2026": [],
@@ -77,6 +77,7 @@
     "paid": false
    }
   ],
+  "choose-your-path-twilight-trails-2026": [],
   "max-mondays-2026-09-28": [],
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-great-league-edition": [],
   "mega-malamar-in-mega-raids-september-2026": [],
@@ -196,7 +197,40 @@
   "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
   "mega-victreebel-in-mega-raids-september-2026": [],
   "xerneas-in-5-star-raid-battles-september-2026": [],
-  "october-communityday2026": [],
+  "october-communityday2026": [
+   {
+    "text": "Increased Spawns",
+    "paid": false
+   },
+   {
+    "text": "???",
+    "paid": false
+   },
+   {
+    "text": "3-hour Incense",
+    "paid": false
+   },
+   {
+    "text": "1-hour Lures*",
+    "paid": false
+   },
+   {
+    "text": "2x Catch Candy",
+    "paid": false
+   },
+   {
+    "text": "2x Chance to receive Candy XL from catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "One additional Special Trade can be made for a maximum of two for the day*",
+    "paid": false
+   },
+   {
+    "text": "Trades made will require 50% less Stardust*",
+    "paid": false
+   }
+  ],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": [],
   "hatch-day-october-2026": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup": [],
