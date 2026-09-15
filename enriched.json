@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T05:02:17.095Z",
+ "generatedAt": "2026-09-15T11:53:37.730Z",
  "bonuses": {
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": [],
   "mega-beedrill-in-mega-raids-september-2026": [],
@@ -197,40 +197,6 @@
   "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
   "mega-victreebel-in-mega-raids-september-2026": [],
   "xerneas-in-5-star-raid-battles-september-2026": [],
-  "october-communityday2026": [
-   {
-    "text": "Increased Spawns",
-    "paid": false
-   },
-   {
-    "text": "???",
-    "paid": false
-   },
-   {
-    "text": "3-hour Incense",
-    "paid": false
-   },
-   {
-    "text": "1-hour Lures*",
-    "paid": false
-   },
-   {
-    "text": "2x Catch Candy",
-    "paid": false
-   },
-   {
-    "text": "2x Chance to receive Candy XL from catching Pokémon",
-    "paid": false
-   },
-   {
-    "text": "One additional Special Trade can be made for a maximum of two for the day*",
-    "paid": false
-   },
-   {
-    "text": "Trades made will require 50% less Stardust*",
-    "paid": false
-   }
-  ],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": [],
   "hatch-day-october-2026": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup": [],
@@ -385,9 +351,9 @@
    "summary": "GO Battle League"
   },
   {
-   "title": "October Community Day",
+   "title": "Zorua Community Day",
    "link": "https://leekduck.com/events/october-communityday2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
    "date": "2026-10-10T14:00:00.000",
    "summary": "Community Day"
   },
