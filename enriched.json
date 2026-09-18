@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17T21:30:09.047Z",
+ "generatedAt": "2026-09-18T04:53:37.625Z",
  "bonuses": {
   "staraptor-super-mega-raid-day-2026": [
    {
@@ -188,17 +188,38 @@
     "paid": false
    }
   ],
+  "max-mondays-2026-10-05": [],
   "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition": [],
   "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
   "mega-victreebel-in-mega-raids-september-2026": [],
   "xerneas-in-5-star-raid-battles-september-2026": [],
+  "raidhour20261007": [],
+  "unannounced-event-october-2026": [],
+  "max-mondays-2026-10-12": [],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2": [],
+  "mega-blastoise-in-mega-raids-october-2026": [],
+  "yveltal-in-5-star-raid-battles-october-2026": [],
+  "raidhour20261014": [],
   "hatch-day-october-2026": [],
+  "max-mondays-2026-10-19": [],
+  "fall-marathon-buddy-trek-2026": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup": [],
+  "dialga-in-5-star-raid-battles-october-2026": [],
+  "mega-dragonite-in-mega-raids-october-2026": [],
+  "raidhour20261021": [],
   "max-battle-day-october-24-2026": [],
+  "max-mondays-2026-10-26": [],
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition": [],
+  "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026": [],
+  "palkia-in-5-star-raid-battles-october-2026": [],
+  "raidhour20261028": [],
   "super-mega-raid-day-october-2026": [],
+  "halloween-2026-part-1": [],
   "gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition": [],
+  "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026": [],
+  "giratina-origin-forme-in-5-star-raid-battles-october-2026": [],
+  "mega-sableye-in-mega-raids-october-2026": [],
+  "halloween-2026-part-2": [],
   "season-24-twilight-trails": [
    {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
@@ -305,11 +326,46 @@
    "summary": "GO Battle League"
   },
   {
+   "title": "Halloween 2026 Part II",
+   "link": "https://leekduck.com/events/halloween-2026-part-2/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-11-01T00:00:00.000",
+   "summary": "Event"
+  },
+  {
    "title": "Super Mega Raid Day",
    "link": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-10-31T14:00:00.000",
    "summary": "Raid Day"
+  },
+  {
+   "title": "Gastly Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "date": "2026-10-29T18:00:00.000",
+   "summary": "Pokémon Spotlight Hour"
+  },
+  {
+   "title": "Giratina (Origin Forme) Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20261028/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-10-28T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Giratina (Origin Forme) in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battles-october-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg",
+   "date": "2026-10-28T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Mega Sableye in Mega Raids",
+   "link": "https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "date": "2026-10-28T06:00:00.000",
+   "summary": "Raid Battles"
   },
   {
    "title": "Master League and Mega Halloween Cup: Great League Edition | Twilight Trails",
@@ -319,67 +375,32 @@
    "summary": "GO Battle League"
   },
   {
-   "title": "Max Battle Day",
+   "title": "Halloween 2026 Part I",
+   "link": "https://leekduck.com/events/halloween-2026-part-1/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-10-27T00:00:00.000",
+   "summary": "Event"
+  },
+  {
+   "title": "Dynamax Sableye during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-10-26/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-10-26T06:00:00.000",
+   "summary": "Max Mondays"
+  },
+  {
+   "title": "Dynamax Max Battle Day",
    "link": "https://leekduck.com/events/max-battle-day-october-24-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-10-24T14:00:00.000",
    "summary": "Max Battles"
   },
   {
-   "title": "Ultra League, Master League: Mega Edition, and Fantasy Cup: Great League Edition | Twilight Trails",
-   "link": "https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition/",
-   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
-   "date": "2026-10-20T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Hatch Day",
-   "link": "https://leekduck.com/events/hatch-day-october-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-10-17T11:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Great League, Ultra League: Mega Edition, and Little Cup | Twilight Trails",
-   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/",
-   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-   "date": "2026-10-13T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Zorua Community Day",
-   "link": "https://leekduck.com/events/october-communityday2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-2026.png",
-   "date": "2026-10-10T14:00:00.000",
-   "summary": "Community Day"
-  },
-  {
-   "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2/",
-   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
-   "date": "2026-10-06T20:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Gigantamax Cinderace Max Battle Day",
-   "link": "https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cinderace-max-battle-day.jpg",
-   "date": "2026-10-03T14:00:00.000",
-   "summary": "Max Battles"
-  },
-  {
-   "title": "Patterns of the Wild",
-   "link": "https://leekduck.com/events/patterns-of-the-wild-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg",
-   "date": "2026-10-02T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Harvest Festival: Taken Over",
-   "link": "https://leekduck.com/events/harvest-festival-taken-over-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jpg",
-   "date": "2026-10-02T00:00:00.000",
-   "summary": "Event"
+   "title": "Morelull Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "date": "2026-10-22T18:00:00.000",
+   "summary": "Pokémon Spotlight Hour"
   }
  ]
 }
