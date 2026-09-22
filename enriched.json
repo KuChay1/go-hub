@@ -1,30 +1,6 @@
 {
- "generatedAt": "2026-09-22T17:03:47.488Z",
+ "generatedAt": "2026-09-22T21:28:05.440Z",
  "bonuses": {
-  "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition": [],
-  "pokemon-horizons-bonus-timed-research-2026": [],
-  "pokemon-horizons-the-series-celebration-event-2026": [
-   {
-    "text": "Increased chance to encounter Kecleon at PokéStops",
-    "paid": false
-   },
-   {
-    "text": "2× Candy for catching Pokémon",
-    "paid": false
-   },
-   {
-    "text": "GO Pass Deluxe: 3× Candy for catching Pokémon",
-    "paid": false
-   },
-   {
-    "text": "Regular Lure Modules will last for one hour and may attract the featured Pokémon",
-    "paid": false
-   },
-   {
-    "text": "Additional Stardust for catching Hatenna and Wattrel",
-    "paid": false
-   }
-  ],
   "mega-venusaur-in-mega-raids-september-2026": [],
   "zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026": [],
   "raidhour20260923": [],
@@ -344,6 +320,22 @@
  },
  "gopass": {
   "go-pass-september-2026": {
+   "free": [
+    "One additional Candy for trading Pokémon",
+    "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon",
+    "Open up to 40 Gifts per day",
+    "Receive up to 125 Gifts per day from spinning PokéStop and Gym Photo Discs",
+    "Hold 10 more Gifts in your Item Bag",
+    "2× Daily Adventure Incense duration",
+    "Increased XP and Stardust from hatching Eggs"
+   ],
+   "deluxe": [
+    "Open up to 50 Gifts per day",
+    "Receive up to 150 Gifts per day from spinning PokéStop and Gym Photo Discs",
+    "Hold up to 20 more Gifts in your Item Bag"
+   ]
+  },
+  "go-pass-october-2026": {
    "free": [
     "One additional Candy for trading Pokémon",
     "Trainers level 31 and above will receive one guaranteed Candy XL when trading Pokémon",
