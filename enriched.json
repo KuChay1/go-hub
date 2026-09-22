@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T22:03:05.285Z",
+ "generatedAt": "2026-09-22T05:09:07.454Z",
  "bonuses": {
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cup-great-league-edition": [],
   "pokemon-horizons-bonus-timed-research-2026": [],
@@ -186,6 +186,72 @@
   "giratina-origin-forme-in-5-star-raid-battles-october-2026": [],
   "mega-sableye-in-mega-raids-october-2026": [],
   "halloween-2026-part-2": [],
+  "pokemon-go-wild-area-2026-sendai-japan": [
+   {
+    "text": "Increased chance to encounter Shiny Pokémon",
+    "paid": false
+   },
+   {
+    "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+    "paid": false
+   },
+   {
+    "text": "Up to 10 free Raid Passes per day from Gyms",
+    "paid": false
+   },
+   {
+    "text": "3/4 Max Particle cost for unlocking and powering up Max Moves",
+    "paid": false
+   },
+   {
+    "text": "Daily Max Particle collection limit increased to 8,000",
+    "paid": false
+   },
+   {
+    "text": "Increased Max Particles from Power Spots and exploration",
+    "paid": false
+   },
+   {
+    "text": "Increased chance of 10 km Eggs from PokéStops and Gyms",
+    "paid": false
+   },
+   {
+    "text": "Lure Modules last for 2 hours",
+    "paid": false
+   },
+   {
+    "text": "Incense, excluding Daily Adventure Incense, lasts for 2 hours",
+    "paid": false
+   },
+   {
+    "text": "2× Candy for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "Party Play lasts for 8 hours",
+    "paid": false
+   },
+   {
+    "text": "Chance to encounter mighty Pokémon on Routes",
+    "paid": false
+   },
+   {
+    "text": "3 GO Snapshot surprise encounters per day",
+    "paid": false
+   },
+   {
+    "text": "Chance to get GO Safari Balls from PokéStops and Gyms",
+    "paid": false
+   },
+   {
+    "text": "Up to 6 Special Trades per day",
+    "paid": true
+   },
+   {
+    "text": "1/2 Stardust cost for trades",
+    "paid": true
+   }
+  ],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": [],
   "season-24-twilight-trails": [
    {
