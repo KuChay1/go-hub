@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T05:02:57.752Z",
+ "generatedAt": "2026-09-24T11:58:03.361Z",
  "bonuses": {
   "catch-mastery-phantump-2026": [
    {
@@ -339,7 +339,8 @@
     "text": "Increased XP and Stardust from hatching Eggs",
     "paid": false
    }
-  ]
+  ],
+  "pokemon-x-adidas-2026": []
  },
  "gopass": {
   "go-pass-september-2026": {
@@ -376,6 +377,27 @@
   }
  },
  "news": [
+  {
+   "title": "Pokémon GO Tour: Alola - Global 2027",
+   "link": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2027-02-27T00:00:00.000",
+   "summary": "Pokémon GO Tour"
+  },
+  {
+   "title": "Pokémon GO Tour: Alola - Los Angeles 2027",
+   "link": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2027-02-19T08:00:00.000Z",
+   "summary": "Pokémon GO Tour"
+  },
+  {
+   "title": "Pokémon GO Tour: Alola - Kaohsiung 2027",
+   "link": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2027-02-18T16:00:00.000Z",
+   "summary": "Pokémon GO Tour"
+  },
   {
    "title": "Super Mega Raid Day",
    "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
@@ -494,27 +516,6 @@
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
    "date": "2026-10-27T10:00:00.000",
    "summary": "Event"
-  },
-  {
-   "title": "Dynamax Sableye during Max Monday",
-   "link": "https://leekduck.com/events/max-mondays-2026-10-26/",
-   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
-   "date": "2026-10-26T06:00:00.000",
-   "summary": "Max Mondays"
-  },
-  {
-   "title": "Dynamax Max Battle Day",
-   "link": "https://leekduck.com/events/max-battle-day-october-24-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2026-10-24T14:00:00.000",
-   "summary": "Max Battles"
-  },
-  {
-   "title": "Morelull Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-22/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-10-22T18:00:00.000",
-   "summary": "Pokémon Spotlight Hour"
   }
  ]
 }
