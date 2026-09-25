@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T21:36:32.890Z",
+ "generatedAt": "2026-09-25T05:05:59.280Z",
  "bonuses": {
   "catch-mastery-phantump-2026": [
    {
@@ -156,7 +156,28 @@
   "mega-blastoise-in-mega-raids-october-2026": [],
   "yveltal-in-5-star-raid-battles-october-2026": [],
   "raidhour20261014": [],
-  "hatch-day-october-2026": [],
+  "sandile-hatch-day-2026": [
+   {
+    "text": "2× Candy from hatching Eggs*",
+    "paid": false
+   },
+   {
+    "text": "1/2 Egg Hatch Distance*",
+    "paid": false
+   },
+   {
+    "text": "Increased chance of hatching Shiny Sandile",
+    "paid": false
+   },
+   {
+    "text": "Increased chance of receiving 2 km Eggs from spinning PokéStops",
+    "paid": false
+   },
+   {
+    "text": "1/4 Egg Hatch Distance*",
+    "paid": false
+   }
+  ],
   "fall-marathon-buddy-trek-2026": [
    {
     "text": "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours",
