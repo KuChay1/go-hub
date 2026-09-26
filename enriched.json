@@ -1,16 +1,6 @@
 {
- "generatedAt": "2026-09-26T16:31:14.260Z",
+ "generatedAt": "2026-09-26T21:17:37.186Z",
  "bonuses": {
-  "catch-mastery-phantump-2026": [
-   {
-    "text": "2× XP for successfully catching Pokémon with Nice Throws or better",
-    "paid": false
-   },
-   {
-    "text": "Increased Candy for successfully catching Pokémon with Nice Throws or better",
-    "paid": false
-   }
-  ],
   "pokemon-go-city-safari-brisbane-2026": [
    {
     "text": "Increased Shiny chance",
@@ -469,6 +459,7 @@
    }
   ],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": [],
+  "gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup": [],
   "season-24-twilight-trails": [
    {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
