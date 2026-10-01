@@ -1,24 +1,6 @@
 {
- "generatedAt": "2026-09-30T22:22:51.072Z",
+ "generatedAt": "2026-10-01T06:09:00.864Z",
  "bonuses": {
-  "lego-pokemon-go-2026": [
-   {
-    "text": "Razz Berry ×5",
-    "paid": false
-   },
-   {
-    "text": "Poké Ball ×10",
-    "paid": false
-   },
-   {
-    "text": "Pinap Berry ×5",
-    "paid": false
-   },
-   {
-    "text": "Nanab Berry ×5",
-    "paid": false
-   }
-  ],
   "patterns-of-the-wild-2026": [
    {
     "text": "Incense will last for two hours",
