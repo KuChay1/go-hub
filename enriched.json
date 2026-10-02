@@ -1,20 +1,6 @@
 {
- "generatedAt": "2026-10-02T12:50:44.886Z",
+ "generatedAt": "2026-10-02T22:21:07.604Z",
  "bonuses": {
-  "patterns-of-the-wild-2026": [
-   {
-    "text": "Incense will last for two hours",
-    "paid": false
-   },
-   {
-    "text": "Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokémon while using Incense",
-    "paid": false
-   },
-   {
-    "text": "Increased chance to encounter Shiny featured wild Pokémon",
-    "paid": false
-   }
-  ],
   "gigantamax-cinderace-max-battle-day-2026": [
    {
     "text": "Max Particle collection limit increased to 1,600",
@@ -185,6 +171,7 @@
     "paid": false
    }
   ],
+  "pokemon-night-out-2026-twitch-drops": [],
   "minior-showers-orionids-2026": [
    {
     "text": "Increased Stardust for catching Minior",
