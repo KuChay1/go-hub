@@ -1,43 +1,6 @@
 {
- "generatedAt": "2026-10-05T14:58:03.583Z",
+ "generatedAt": "2026-10-06T00:09:26.486Z",
  "bonuses": {
-  "harvest-festival-2026": [
-   {
-    "text": "Increased chance to encounter Shiny Smoliv",
-    "paid": false
-   },
-   {
-    "text": "Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught",
-    "paid": false
-   },
-   {
-    "text": "Mossy Lure Modules activated during the event will last for one hour",
-    "paid": false
-   },
-   {
-    "text": "More Stardust from defeating Team GO Rocket Grunts and Leaders",
-    "paid": false
-   }
-  ],
-  "harvest-festival-taken-over-2026": [
-   {
-    "text": "Increased chance to encounter Shiny Slugma",
-    "paid": false
-   },
-   {
-    "text": "More Team GO Rocket appearances at PokéStops and in balloons",
-    "paid": false
-   },
-   {
-    "text": "Use a Charged TM to remove Frustration from Shadow Pokémon",
-    "paid": false
-   },
-   {
-    "text": "Wider Attack, Defense, and HP variance for Pokémon caught in one-star and three-star Shadow Raids during the event",
-    "paid": false
-   }
-  ],
-  "max-mondays-2026-10-05": [],
   "gbl-twilight-trails_master-league_mega-color-cup-great-league-edition": [],
   "shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026": [],
   "mega-victreebel-in-mega-raids-september-2026": [],
@@ -146,7 +109,24 @@
   "palkia-in-5-star-raid-battles-october-2026": [],
   "raidhour20261028": [],
   "super-mega-raid-day-october-2026": [],
-  "halloween-2026-part-1": [],
+  "halloween-2026-part-1": [
+   {
+    "text": "2× Candy for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "GO Pass Deluxe: 3× Candy for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "2× Stardust for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "GO Pass Deluxe: 3× Stardust for catching Pokémon",
+    "paid": false
+   }
+  ],
   "gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition": [],
   "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026": [],
   "giratina-origin-forme-in-5-star-raid-battles-october-2026": [],
