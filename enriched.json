@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T22:55:56.596Z",
+ "generatedAt": "2026-10-14T05:03:34.323Z",
  "bonuses": {
   "raidhour20261014": [],
   "sandile-hatch-day-2026": [
@@ -98,7 +98,40 @@
   "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026": [],
   "palkia-in-5-star-raid-battles-october-2026": [],
   "raidhour20261028": [],
-  "super-mega-raid-day-october-2026": [],
+  "chandelure-super-mega-raid-day-2026": [
+   {
+    "text": "Remote Raid limit increased to 20 from Friday, October 30, at 5:00 p.m. to Saturday, October 31, 2026, at 8:00 p.m. PDT",
+    "paid": false
+   },
+   {
+    "text": "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+    "paid": false
+   },
+   {
+    "text": "Chandelure caught from Super Mega Raids will have Mega Level 1 unlocked",
+    "paid": false
+   },
+   {
+    "text": "Increased chance of encountering Shiny Chandelure from Super Mega Raids",
+    "paid": false
+   },
+   {
+    "text": "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+    "paid": true
+   },
+   {
+    "text": "Increased chance to get Rare Candy XL from Raid Battles",
+    "paid": true
+   },
+   {
+    "text": "An additional 5,000 XP from Super Mega Raid Battles",
+    "paid": true
+   },
+   {
+    "text": "An additional 5,000 Stardust from Super Mega Raid Battles",
+    "paid": true
+   }
+  ],
   "halloween-2026-part-1": [
    {
     "text": "2× Candy for catching Pokémon",
@@ -522,9 +555,9 @@
    "summary": "Event"
   },
   {
-   "title": "Super Mega Raid Day",
-   "link": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "title": "Chandelure Super Mega Raid Day",
+   "link": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
    "date": "2026-10-31T14:00:00.000",
    "summary": "Raid Day"
   },
