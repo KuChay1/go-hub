@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T12:06:24.689Z",
+ "generatedAt": "2026-10-14T17:20:55.077Z",
  "bonuses": {
   "raidhour20261014": [],
   "sandile-hatch-day-2026": [
@@ -90,6 +90,32 @@
    },
    {
     "text": "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day",
+    "paid": false
+   }
+  ],
+  "pokemon-go-city-safari-boston-2026-rescheduled": [
+   {
+    "text": "Increased Shiny chance",
+    "paid": false
+   },
+   {
+    "text": "Four-hour Lure Modules (excluding Golden Lure Modules)",
+    "paid": false
+   },
+   {
+    "text": "Up to five Special Trades",
+    "paid": false
+   },
+   {
+    "text": "Half Stardust cost for trades",
+    "paid": false
+   },
+   {
+    "text": "Tiny Compass buddy souvenir",
+    "paid": false
+   },
+   {
+    "text": "Eight-hour Party Play",
     "paid": false
    }
   ],
@@ -384,6 +410,7 @@
   ],
   "november-communityday2026": [],
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup": [],
+  "super-mega-raid-day-november-2026": [],
   "season-24-twilight-trails": [
    {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
