@@ -1,7 +1,6 @@
 {
- "generatedAt": "2026-10-14T17:20:55.077Z",
+ "generatedAt": "2026-10-14T21:48:13.338Z",
  "bonuses": {
-  "raidhour20261014": [],
   "sandile-hatch-day-2026": [
    {
     "text": "2× Candy from hatching Eggs*",
@@ -331,6 +330,64 @@
    }
   ],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": [],
+  "into-the-wild-2026": [
+   {
+    "text": "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
+    "paid": false
+   },
+   {
+    "text": "No Remote Raid limit from Saturday, November 14, to Sunday, November 15, 2026",
+    "paid": false
+   },
+   {
+    "text": "Chance to encounter Shiny Gimmighoul when using a Coin Bag*",
+    "paid": false
+   },
+   {
+    "text": "Chance to encounter Shiny Meltan when opening the Mystery Box*",
+    "paid": false
+   },
+   {
+    "text": "Reduced wait time before you can open the Mystery Box again*",
+    "paid": false
+   },
+   {
+    "text": "Trainers can receive special event stickers from PokéStops and Gifts",
+    "paid": false
+   },
+   {
+    "text": "1/2 Hatch Distance for Eggs placed in Incubators during the event",
+    "paid": false
+   },
+   {
+    "text": "5,000 additional XP from completed raids",
+    "paid": false
+   },
+   {
+    "text": "5,000 additional XP from completed Max Battles",
+    "paid": false
+   },
+   {
+    "text": "3/4 Max Particle cost for unlocking and powering up Max Moves",
+    "paid": false
+   },
+   {
+    "text": "+1 Candy from raids",
+    "paid": false
+   },
+   {
+    "text": "+1 Candy XL from raids (Trainers level 31+)",
+    "paid": false
+   },
+   {
+    "text": "+1 Candy from Max Battles",
+    "paid": false
+   },
+   {
+    "text": "+1 Candy XL from Max Battles (Trainers level 31+)",
+    "paid": false
+   }
+  ],
   "pokemon-go-wild-area-2026-global": [
    {
     "text": "Chance to get GO Safari Balls from PokéStops and Gyms",
@@ -554,6 +611,13 @@
    "summary": "GO Battle League"
   },
   {
+   "title": "Into the Wild",
+   "link": "https://leekduck.com/events/into-the-wild-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-09-into-the-wild-2026/into-the-wild-2026.jpg",
+   "date": "2026-11-09T10:00:00.000",
+   "summary": "Event"
+  },
+  {
    "title": "Pokémon GO Wild Area 2026: Mexico City",
    "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
    "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg",
@@ -587,13 +651,6 @@
    "image": "https://cdn.leekduck.com/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
    "date": "2026-10-31T14:00:00.000",
    "summary": "Raid Day"
-  },
-  {
-   "title": "Gastly Spotlight Hour",
-   "link": "https://leekduck.com/events/pokemonspotlighthour2026-10-29/",
-   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
-   "date": "2026-10-29T18:00:00.000",
-   "summary": "Pokémon Spotlight Hour"
   }
  ]
 }
