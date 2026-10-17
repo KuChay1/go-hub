@@ -1,28 +1,6 @@
 {
- "generatedAt": "2026-10-17T15:43:49.018Z",
+ "generatedAt": "2026-10-17T20:44:10.106Z",
  "bonuses": {
-  "sandile-hatch-day-2026": [
-   {
-    "text": "2× Candy from hatching Eggs*",
-    "paid": false
-   },
-   {
-    "text": "1/2 Egg Hatch Distance*",
-    "paid": false
-   },
-   {
-    "text": "Increased chance of hatching Shiny Sandile",
-    "paid": false
-   },
-   {
-    "text": "Increased chance of receiving 2 km Eggs from spinning PokéStops",
-    "paid": false
-   },
-   {
-    "text": "1/4 Egg Hatch Distance*",
-    "paid": false
-   }
-  ],
   "fall-marathon-buddy-trek-2026": [
    {
     "text": "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours",
