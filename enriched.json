@@ -1,17 +1,6 @@
 {
- "generatedAt": "2026-10-19T13:37:41.072Z",
+ "generatedAt": "2026-10-19T22:28:20.040Z",
  "bonuses": {
-  "fall-marathon-buddy-trek-2026": [
-   {
-    "text": "Incense (excluding Daily Adventure Incense) activated during the event lasts for two hours",
-    "paid": false
-   },
-   {
-    "text": "5× Mega Energy from exploring with Electrike or Manectric as your buddy after Mega Evolving Manectric at least once",
-    "paid": false
-   }
-  ],
-  "max-mondays-2026-10-19": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup": [],
   "pokemon-tcg-30th-celebration": [],
   "dialga-in-5-star-raid-battles-october-2026": [],
@@ -60,6 +49,12 @@
    }
   ],
   "pokemon-night-out-2026-twitch-drops": [],
+  "pokemon-night-out-los-angeles-2026": [
+   {
+    "text": "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules",
+    "paid": false
+   }
+  ],
   "minior-showers-orionids-2026": [
    {
     "text": "Increased Stardust for catching Minior",
@@ -153,10 +148,11 @@
     "paid": false
    }
   ],
+  "max-mondays-2026-11-02": [],
   "gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition": [],
   "shadow-landorus-incarnate-forme-in-shadow-raids-october-2026": [],
   "giratina-origin-forme-in-5-star-raid-battles-october-2026": [],
-  "mega-sableye-in-mega-raids-october-2026": [],
+  "raidhour20261104": [],
   "halloween-2026-part-2": [
    {
     "text": "2× Candy for catching Pokémon",
@@ -307,7 +303,16 @@
     "paid": true
    }
   ],
+  "mega-sableye-in-mega-raids-october-2026": [],
+  "giratina-altered-forme-in-5-star-raid-battles-november-2026": [],
+  "shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026": [],
   "gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3": [],
+  "pokemon-night-out-london-2026": [
+   {
+    "text": "Lure Modules activated during the event last for one hour, excluding Golden Lure Modules",
+    "paid": false
+   }
+  ],
   "into-the-wild-2026": [
    {
     "text": "Remote Raid limit increased to 30 from Monday, November 9, to Friday, November 13, 2026",
@@ -432,7 +437,9 @@
     "paid": true
    }
   ],
+  "max-mondays-2026-11-16": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup": [],
+  "raidhour20261118": [],
   "minior-showers-leonids-2026": [
    {
     "text": "Increased Stardust for catching Minior",
@@ -444,8 +451,15 @@
    }
   ],
   "november-communityday2026": [],
+  "dynamax-trails-2026": [],
+  "max-mondays-2026-11-23": [],
+  "cresselia-darkrai-in-5-star-raid-battles-november-2026": [],
+  "mega-banette-in-mega-raids-november-2026": [],
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup": [],
+  "raidhour20261125": [],
   "super-mega-raid-day-november-2026": [],
+  "twilight-wishes-2026": [],
+  "max-mondays-2026-11-30": [],
   "season-24-twilight-trails": [
    {
     "text": "One guaranteed Candy XL when trading Pokémon for Trainers level 31 and above",
@@ -469,6 +483,9 @@
    }
   ],
   "gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition": [],
+  "shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026": [],
+  "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026": [],
+  "mega-metagross-in-mega-raids-november-2026": [],
   "pokemon-x-adidas-2026": []
  },
  "gopass": {
@@ -540,6 +557,13 @@
    "summary": "Event"
   },
   {
+   "title": "Dynamax Cryogonal during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-11-30/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-11-30T06:00:00.000",
+   "summary": "Max Mondays"
+  },
+  {
    "title": "Super Mega Raid Day",
    "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -547,11 +571,53 @@
    "summary": "Raid Day"
   },
   {
+   "title": "Noibat Spotlight Hour",
+   "link": "https://leekduck.com/events/pokemonspotlighthour2026-11-26/",
+   "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+   "date": "2026-11-26T18:00:00.000",
+   "summary": "Pokémon Spotlight Hour"
+  },
+  {
+   "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20261125/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-11-25T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Deoxys (Normal, Defense, Attack, and Speed Formes) in 5-star Raid Battles",
+   "link": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-11-25T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
+   "title": "Mega Metagross in Mega Raids",
+   "link": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+   "date": "2026-11-25T06:00:00.000",
+   "summary": "Raid Battles"
+  },
+  {
    "title": "Master League and Mega Catch Cup: Great League Edition | Twilight Trails",
    "link": "https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/",
    "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
    "date": "2026-11-24T21:00:00.000Z",
    "summary": "GO Battle League"
+  },
+  {
+   "title": "Twilight Wishes",
+   "link": "https://leekduck.com/events/twilight-wishes-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-11-24T10:00:00.000",
+   "summary": "Event"
+  },
+  {
+   "title": "Dynamax Espurr during Max Monday",
+   "link": "https://leekduck.com/events/max-mondays-2026-11-23/",
+   "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+   "date": "2026-11-23T06:00:00.000",
+   "summary": "Max Mondays"
   },
   {
    "title": "November Community Day",
@@ -568,67 +634,18 @@
    "summary": "GO Battle League"
   },
   {
-   "title": "Minior Showers: Leonids 2026",
-   "link": "https://leekduck.com/events/minior-showers-leonids-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/minior-showers-2026.jpg",
-   "date": "2026-11-14T17:00:00.000",
+   "title": "Cresselia and Darkrai Raid Hour",
+   "link": "https://leekduck.com/events/raidhour20261118/",
+   "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+   "date": "2026-11-18T18:00:00.000",
+   "summary": "Raid Hour"
+  },
+  {
+   "title": "Dynamax Trails",
+   "link": "https://leekduck.com/events/dynamax-trails-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "date": "2026-11-16T10:00:00.000",
    "summary": "Event"
-  },
-  {
-   "title": "Pokémon GO Wild Area 2026: Global",
-   "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg",
-   "date": "2026-11-14T10:00:00.000",
-   "summary": "Wild Area"
-  },
-  {
-   "title": "Great League, Ultra League: Mega Edition, and 2026 GO LAIC Cup | Twilight Trails",
-   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup/",
-   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-   "date": "2026-11-10T21:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Into the Wild",
-   "link": "https://leekduck.com/events/into-the-wild-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-09-into-the-wild-2026/into-the-wild-2026.jpg",
-   "date": "2026-11-09T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Pokémon GO Wild Area 2026: Mexico City",
-   "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg",
-   "date": "2026-11-06T16:00:00.000Z",
-   "summary": "Wild Area"
-  },
-  {
-   "title": "Pokémon GO Wild Area 2026: Sendai • Tohoku",
-   "link": "https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg",
-   "date": "2026-11-06T01:00:00.000Z",
-   "summary": "Wild Area"
-  },
-  {
-   "title": "Great League: Mega Edition, Ultra League: Mega Edition, and Master League: Mega Edition | Twilight Trails",
-   "link": "https://leekduck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3/",
-   "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-28-twilight-trails.png",
-   "date": "2026-11-03T21:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Pokémon GO Halloween 2026 Part II",
-   "link": "https://leekduck.com/events/halloween-2026-part-2/",
-   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-01-halloween-2026-part-2/halloween-2026-part-2.jpg",
-   "date": "2026-11-01T10:00:00.000",
-   "summary": "Event"
-  },
-  {
-   "title": "Chandelure Super Mega Raid Day",
-   "link": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/chandelure-super-mega-raid-day-2026.jpg",
-   "date": "2026-10-31T14:00:00.000",
-   "summary": "Raid Day"
   }
  ]
 }
