@@ -1,7 +1,6 @@
 {
- "generatedAt": "2026-10-21T17:22:18.072Z",
+ "generatedAt": "2026-10-21T21:49:59.868Z",
  "bonuses": {
-  "raidhour20261021": [],
   "dynamax-uxie-mesprit-azelf-max-battle-day-2026": [
    {
     "text": "Max Particle collection limit increased to 1,600",
@@ -446,7 +445,6 @@
     "paid": false
    }
   ],
-  "november-communityday2026": [],
   "dynamax-trails-2026": [],
   "max-mondays-2026-11-23": [],
   "cresselia-darkrai-in-5-star-raid-battles-november-2026": [],
@@ -632,9 +630,9 @@
    "summary": "Max Mondays"
   },
   {
-   "title": "November Community Day",
+   "title": "Pawniard Community Day",
    "link": "https://leekduck.com/events/november-communityday2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+   "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg",
    "date": "2026-11-21T14:00:00.000",
    "summary": "Community Day"
   },
