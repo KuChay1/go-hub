@@ -1,9 +1,6 @@
 {
- "generatedAt": "2026-10-27T12:26:38.982Z",
+ "generatedAt": "2026-10-27T22:25:04.234Z",
  "bonuses": {
-  "gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition": [],
-  "mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026": [],
-  "palkia-in-5-star-raid-battles-october-2026": [],
   "raidhour20261028": [],
   "chandelure-super-mega-raid-day-2026": [
    {
@@ -394,6 +391,16 @@
   "shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026": [],
   "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026": [],
   "mega-metagross-in-mega-raids-november-2026": [],
+  "minior-showers-geminids-2026": [
+   {
+    "text": "Increased Stardust for catching Minior",
+    "paid": false
+   },
+   {
+    "text": "Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time each day",
+    "paid": false
+   }
+  ],
   "pokemon-x-adidas-2026": []
  },
  "gopass": {
