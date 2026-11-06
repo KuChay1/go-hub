@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T20:06:11.824Z",
+ "generatedAt": "2026-11-06T06:59:48.518Z",
  "bonuses": {
   "pokemon-go-wild-area-2026-sendai-japan": [
    {
@@ -267,6 +267,7 @@
     "paid": true
    }
   ],
+  "go-wild-area-gigantamax-machamp-power-up-timed-research": [],
   "max-mondays-2026-11-16": [],
   "gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-cup": [],
   "raidhour20261118": [],
@@ -321,7 +322,40 @@
   "mega-banette-in-mega-raids-november-2026": [],
   "gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-cup": [],
   "raidhour20261125": [],
-  "super-mega-raid-day-november-2026": [],
+  "clefable-super-mega-raid-day-2026": [
+   {
+    "text": "Remote Raid limit increased to 20 from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST",
+    "paid": false
+   },
+   {
+    "text": "Receive up to six free Raid Passes from spinning Gym Photo Discs",
+    "paid": false
+   },
+   {
+    "text": "Clefable caught from Super Mega Raids will have Mega Level 1 unlocked",
+    "paid": false
+   },
+   {
+    "text": "Increased chance of encountering Shiny Clefable from Super Mega Raids",
+    "paid": false
+   },
+   {
+    "text": "Receive up to 14 Raid Passes from spinning Gym Photo Discs",
+    "paid": true
+   },
+   {
+    "text": "Increased chance to get Rare Candy XL from Raid Battles",
+    "paid": true
+   },
+   {
+    "text": "An additional 5,000 XP from Super Mega Raid Battles",
+    "paid": true
+   },
+   {
+    "text": "An additional 5,000 Stardust from Super Mega Raid Battles",
+    "paid": true
+   }
+  ],
   "twilight-wishes-2026": [
    {
     "text": "Increased chance to encounter Shiny Staryu and Shiny Elgyem",
@@ -459,9 +493,9 @@
    "summary": "Max Mondays"
   },
   {
-   "title": "Super Mega Raid Day",
-   "link": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+   "title": "Clefable Super Mega Raid Day",
+   "link": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/",
+   "image": "https://cdn.leekduck.com/assets/img/events/clefable-super-mega-raid-day-2026.jpg",
    "date": "2026-11-28T14:00:00.000",
    "summary": "Raid Day"
   },
