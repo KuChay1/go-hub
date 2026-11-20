@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:29:33.195Z",
+ "generatedAt": "2026-11-20T20:31:57.678Z",
  "bonuses": {
   "eternamax-eternatus-max-battles-2026": [
    {
@@ -15,6 +15,7 @@
     "paid": false
    }
   ],
+  "pokemon-latin-america-international-championships-2027-timed-research-twitch-drops": [],
   "dynamax-trails-2026": [
    {
     "text": "Chance to receive Max Particles when catching event-themed Pokémon in the wild or after Max Battles",
@@ -126,7 +127,48 @@
   "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026": [],
   "mega-metagross-in-mega-raids-november-2026": [],
   "max-battle-day-december-2026": [],
-  "december-communityday2026": [],
+  "december-communityday2026": [
+   {
+    "text": "Increased Spawns",
+    "paid": false
+   },
+   {
+    "text": "2x XP for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "2x Stardust for catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "1/2 Hatch Distance when Eggs are placed into Incubators during the event period",
+    "paid": false
+   },
+   {
+    "text": "2x Catch Candy",
+    "paid": false
+   },
+   {
+    "text": "2x Chance for Trainers level 31 and up to receive Candy XL from catching Pokémon",
+    "paid": false
+   },
+   {
+    "text": "3-hour Incense**",
+    "paid": false
+   },
+   {
+    "text": "1-hour Lures*",
+    "paid": false
+   },
+   {
+    "text": "Up to two Special Trades can be made per day*",
+    "paid": false
+   },
+   {
+    "text": "Trades made will require 50% less Stardust*",
+    "paid": false
+   }
+  ],
   "minior-showers-geminids-2026": [
    {
     "text": "Increased Stardust for catching Minior",
