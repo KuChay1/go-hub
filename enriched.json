@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:36:27.851Z",
+ "generatedAt": "2026-11-25T08:51:02.601Z",
  "bonuses": {
   "raidhour20261125": [],
   "clefable-super-mega-raid-day-2026": [
@@ -109,6 +109,7 @@
    }
   ],
   "raid-day-december-2026": [],
+  "choose-your-path-daydream-destinations-2026-12-15": [],
   "max-mondays-2026-12-21": [],
   "gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-league-edition": [],
   "ho-oh-in-5-star-raid-battles-december-2026": [],
@@ -245,6 +246,13 @@
    "summary": "GO Battle League"
   },
   {
+   "title": "Choose Your Path: Daydream Destinations (February 16, 2027)",
+   "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/",
+   "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream-destinations-2026.jpg",
+   "date": "2027-02-16T10:00:00.000",
+   "summary": "Choose Your Path"
+  },
+  {
    "title": "Raid Day",
    "link": "https://leekduck.com/events/raid-day-february-2027/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -287,6 +295,13 @@
    "summary": "GO Battle League"
   },
   {
+   "title": "Choose Your Path: Daydream Destinations (January 26, 2027)",
+   "link": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/",
+   "image": "https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream-destinations-2026.jpg",
+   "date": "2027-01-26T10:00:00.000",
+   "summary": "Choose Your Path"
+  },
+  {
    "title": "Max Battle Day",
    "link": "https://leekduck.com/events/max-battle-day-january-2027/",
    "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
@@ -312,20 +327,6 @@
    "link": "https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-league-edition/",
    "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
    "date": "2027-01-12T21:00:00.000Z",
-   "summary": "GO Battle League"
-  },
-  {
-   "title": "Super Mega Raid Day",
-   "link": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
-   "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
-   "date": "2027-01-09T14:00:00.000",
-   "summary": "Raid Day"
-  },
-  {
-   "title": "Great League: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinations",
-   "link": "https://leekduck.com/events/gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition/",
-   "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
-   "date": "2027-01-05T21:00:00.000Z",
    "summary": "GO Battle League"
   }
  ]
