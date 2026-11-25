@@ -1,7 +1,6 @@
 {
- "generatedAt": "2026-11-25T08:51:02.601Z",
+ "generatedAt": "2026-11-25T21:50:11.539Z",
  "bonuses": {
-  "raidhour20261125": [],
   "clefable-super-mega-raid-day-2026": [
    {
     "text": "Remote Raid limit increased to 20 from Friday, November 27, at 5:00 p.m. to Saturday, November 28, 2026, at 8:00 p.m. PST",
@@ -86,7 +85,16 @@
   "mega-metagross-in-mega-raids-november-2026": [],
   "raidhour20261202": [],
   "max-battle-day-december-2026": [],
-  "tropical-paradise-2026": [],
+  "tropical-paradise-2026": [
+   {
+    "text": "2× Raid XP",
+    "paid": false
+   },
+   {
+    "text": "5× Mega Energy for exploring with Slowpoke, Slowbro, or Slowking as your buddy after Mega Evolving Slowbro at least once",
+    "paid": false
+   }
+  ],
   "max-mondays-2026-12-07": [],
   "gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1": [],
   "mega-slowbro-in-mega-raids-december-2026": [],
@@ -129,6 +137,7 @@
   "shadow-dialga-in-shadow-raids-december-2026": [],
   "mega-falinks-in-mega-raids-december-2026": [],
   "tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-december-2026": [],
+  "super-mega-raid-day-january-2027": [],
   "gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-league-edition": [],
   "pokemon-x-adidas-2026": [],
   "season-25-daydream-destinations": [
