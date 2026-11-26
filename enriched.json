@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:50:11.539Z",
+ "generatedAt": "2026-11-26T08:36:57.870Z",
  "bonuses": {
   "clefable-super-mega-raid-day-2026": [
    {
@@ -84,7 +84,48 @@
   "deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026": [],
   "mega-metagross-in-mega-raids-november-2026": [],
   "raidhour20261202": [],
-  "max-battle-day-december-2026": [],
+  "gigantamax-inteleon-max-battle-day-2026": [
+   {
+    "text": "Max Particle collection limit increased to 1,600",
+    "paid": false
+   },
+   {
+    "text": "All Power Spots will host Gigantamax Battles",
+    "paid": false
+   },
+   {
+    "text": "Power Spots will refresh more frequently",
+    "paid": false
+   },
+   {
+    "text": "Additional Power Spots will be active",
+    "paid": false
+   },
+   {
+    "text": "8× Max Particles from Power Spots",
+    "paid": false
+   },
+   {
+    "text": "Up to three Special Trades for the day",
+    "paid": false
+   },
+   {
+    "text": "From December 4 at 4:00 p.m. to December 5 at 8:00 p.m. PST (GMT −8), the daily Remote Raid limit will increase from 10 to 20",
+    "paid": false
+   },
+   {
+    "text": "2× Max Particles from exploring*",
+    "paid": false
+   },
+   {
+    "text": "1/4 Adventuring distance to receive Max Particles**",
+    "paid": false
+   },
+   {
+    "text": "2× XP from Max Battles",
+    "paid": false
+   }
+  ],
   "tropical-paradise-2026": [
    {
     "text": "2× Raid XP",
@@ -100,11 +141,32 @@
   "mega-slowbro-in-mega-raids-december-2026": [],
   "regidrago-in-5-star-raid-battles-december-2026": [],
   "raidhour20261209": [],
-  "unannounced-event-december-2026": [],
+  "pokemon-champions-celebration-event-2026": [
+   {
+    "text": "Increased chance to encounter Kecleon at PokéStops",
+    "paid": false
+   },
+   {
+    "text": "7× GO Transporter Energy gained per hour to send a Pokémon from Pokémon GO to Pokémon HOME",
+    "paid": false
+   },
+   {
+    "text": "2× Candy for catching Pokémon*",
+    "paid": false
+   },
+   {
+    "text": "3,000 additional XP from completing Raid Battles",
+    "paid": false
+   },
+   {
+    "text": "GO Pass Deluxe: Receive up to two free Raid Passes per day from spinning Gym Photo Discs",
+    "paid": true
+   }
+  ],
   "max-mondays-2026-12-14": [],
   "gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-league-edition": [],
   "mega-gengar-in-mega-raids-december-2026": [],
-  "unannounced-pokemon-in-5-star-raid-battles-december-2026": [],
+  "pokemon-champions-celebration-5-star-raid-battles-december-2026": [],
   "raidhour20261216": [],
   "minior-showers-geminids-2026": [
    {
